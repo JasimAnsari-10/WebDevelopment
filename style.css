@@ -7,9 +7,10 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    flex-wrap: wrap;
-    /* align-items: center; */
+    flex-wrap: wrap; 
+    align-items: center;
     align-content: center;
+    flex: 2 2 500px;
 }
 
 h1{
